@@ -1,0 +1,4 @@
+name: my
+channels:
+  - defaults
+prefix: /home/ahmadnawaz/miniconda3/envs/my
